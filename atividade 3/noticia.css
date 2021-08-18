@@ -1,0 +1,100 @@
+#principal {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    color: #fff;
+    background: black;
+    width: 100%; height: 35px;
+    padding: 15px;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    background: #fff;
+    text-align: center;
+    color: red;
+    padding: 10px;
+}
+.origem{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    background:black;
+}
+.resumo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background: #fff;
+    padding: 10px;
+}
+#rodape{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: 11px;
+    text-align: center;
+    background: #CFB;
+}
+.tb1{
+    border: solid 1px; color: black;
+    width: 766px; height: 36px;
+    background: #000033;
+}
+.links{
+    color: #2bd809;
+}
+.links:visited{
+    color:blueviolet;
+}
+.links:active{
+    color: #AC0B44;
+}
+.links:hover{
+    color: #FF0000;
+    font-weight: bold;
+}
+.links2{
+    color: pink;
+}
+.links2:visited{
+    color:red;
+}
+.links2:active{
+    color: grey;
+}
+.links2:hover{
+    color: blue;
+    font-weight: bold;
+}
+.origem2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+    background: black;
+    text-align: center;
+}
+.titulo2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    font-style: italic;
+    background: #fff;
+    padding: 10px;
+    color: blue;
+}
+.resumo2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background: #fff;
+    padding-bottom: 35px;
+}
